@@ -1,0 +1,2 @@
+com.example.musedock.shared
+xml automotive_app_desc

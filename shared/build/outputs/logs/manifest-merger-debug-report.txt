@@ -1,0 +1,38 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:1:1-22:12
+INJECTED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:1:1-22:12
+	package
+		INJECTED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:3:5-20:19
+	android:appCategory
+		ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:3:18-45
+meta-data#com.google.android.gms.car.application
+ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:5:9-7:63
+	android:resource
+		ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:7:17-60
+	android:name
+		ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:6:17-70
+service#com.example.musedock.shared.MyMusicService
+ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:12:9-18:19
+	android:exported
+		ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:13:13-70
+intent-filter#action:name:android.media.browse.MediaBrowserService
+ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:15:13-17:29
+action#android.media.browse.MediaBrowserService
+ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:16:17-83
+	android:name
+		ADDED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml:16:25-80
+uses-sdk
+INJECTED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml
+INJECTED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vicki/Desktop/MuseDock/shared/src/main/AndroidManifest.xml
